@@ -20,10 +20,7 @@ AI%20|%20ML%20Enthusiast;Guitarist;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   
-  ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=saksham0309&theme=dark&hide_border=true&ring=DD2727" /></p>
-<details>
-</p>
+
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
@@ -45,6 +42,11 @@ AI%20|%20ML%20Enthusiast;Guitarist;
 <a target="_blank" href="https://twitter.com/iamsaksham__"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>       
+
+  ## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=saksham0309&theme=dark&hide_border=true&ring=DD2727" /></p>
+<details>
+</p>
 
 ## &#x1f4c8; My GitHub Stats
 
