@@ -41,6 +41,7 @@ AI%20|%20ML%20Enthusiast;Guitarist;
 <a target="_blank" href="mailto:sakshammishra87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/iamsaksham__"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://saksham0309.github.io/Profile/#"><img src="https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=files&logoColor=white"></img></a>
+<a href="https://twitter.com/iamsaksham__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsaksham__" height="30" width="40" /></a>
 
 <br>
 </p>       
