@@ -44,10 +44,12 @@ AI%20|%20ML%20Enthusiast;Guitarist;
 </p>       
 
   ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=saksham0309&theme=dark&hide_border=true&ring=DD2727" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=saksham0309&theme=dark&hide_border=true&ring=DD2727" />
+<!--
+</p>
 <details>
 </p>
-<!--
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/saksham0309">
