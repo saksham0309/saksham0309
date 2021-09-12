@@ -43,13 +43,7 @@ AI%20|%20ML%20Enthusiast;Guitarist;
 <a target="_blank" href="https://twitter.com/iamsaksham__"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://saksham0309.github.io/Profile/#"><img src="https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=files&logoColor=white"></img></a>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha2412" alt="astha2412" /></a> </p>-->
-<p align="left">
-<a href="https://fb.com/astha barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="astha barnwal" height="30" width="40" /></a>
-<a href="https://instagram.com/astha_barnwal_2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astha_barnwal_2412" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@asthabarnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@asthabarnwal" height="30" width="40" /></a>
-</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astha2412" alt="astha2412" /></a> </p>-
                
 
 <br>
