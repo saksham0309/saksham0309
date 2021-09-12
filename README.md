@@ -43,7 +43,7 @@ AI%20|%20ML%20Enthusiast;Guitarist;
 <a target="_blank" href="https://twitter.com/iamsaksham__"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://saksham0309.github.io/Profile/#"><img src="https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=files&logoColor=white"></img></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham0309" alt="saksham0309" /></a> </p>-
+
                
 
 <br>
